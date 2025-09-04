@@ -79,3 +79,10 @@ Content/*
 # Manter apenas os assets "cozidos"
 !Saved/Cooked/**
 
+# Ignorar assets do Unreal
+Content/*
+
+# Manter mapas e assets essenciais
+!Content/Maps/**
+!Content/CoreAssets/**
+
